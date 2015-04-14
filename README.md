@@ -1,0 +1,1 @@
+This repo stores my favorite themes, styles, color schemes etc. for Jupyter Notebook, iTerm, Sublime Text etc.
